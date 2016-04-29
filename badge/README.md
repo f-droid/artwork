@@ -3,14 +3,14 @@
 Use F-Droid badge on your site or README.md to indicate that your app is
 available on the F-Droid main repository:
 
-<img src="https://gitlab.com/fdroid/artwork/raw/master/badge/get-it-on.png"
+<img src="https://f-droid.org/badge/get-it-on.png"
      alt="Get it on F-Droid" height="80">
 
 HTML code:
 
 ```html
 <a href="https://f-droid.org/app/YOUR.APP.ID">
-    <img src="https://gitlab.com/fdroid/artwork/raw/master/badge/get-it-on.png"
+    <img src="https://f-droid.org/badge/get-it-on.png"
          alt="Get it on F-Droid" height="80">
 </a>
 ```
