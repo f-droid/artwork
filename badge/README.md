@@ -15,7 +15,15 @@ HTML code:
 </a>
 ```
 
-Note that this HTML code is to point people at the main F-Droid repository.
+Markdown code:
+
+```markdown
+[<img src="https://f-droid.org/badge/get-it-on.png"
+      alt="Get it on F-Droid"
+      height="80">](https://f-droid.org/app/YOUR.APP.ID)
+```
+
+Note that those code samples are to point people at the main F-Droid repository.
 If you have your own F-Droid repository, you should instead tell people to
 add your repository via a QR code. Such examples of landing pages for
 third-party F-Droid repositories include:
