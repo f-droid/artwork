@@ -24,7 +24,7 @@ sed "s/GET IT ON/HANKIGE/"            $SRC > get-it-on-et.svg # Estonian
 sed "s/GET IT ON/KUNIN ITO SA/"      $SRC > get-it-on-fil.svg # Filipino
 sed "s/GET IT ON/SAADA SE/"           $SRC > get-it-on-fi.svg # Finnish
 sed "s/GET IT ON/DISPONIBLE SUR/"     $SRC > get-it-on-fr.svg # French
-sed "s/GET IT ON/DISPOÑIBLE EN/"      $SRC > get-it-on-fr.svg # Galician
+sed "s/GET IT ON/DISPOÑIBLE EN/"      $SRC > get-it-on-gl.svg # Galician
 sed "s/GET IT ON/JETZT BEI/"          $SRC > get-it-on-de.svg # German
 sed "s/GET IT ON/ΑΠΟΚΤΗΣΤΕ ΤΟ ΣΤΟ/"   $SRC > get-it-on-el.svg # Greek
 sed "s/GET IT ON/SZEREZD MEG:/"       $SRC > get-it-on-hu.svg # Hungarian
@@ -47,7 +47,7 @@ sed "s/GET IT ON/НАБАВИТЕ НА/"        $SRC > get-it-on-sr.svg # Serbia
 sed "s/GET IT ON/TERAZ NA/"           $SRC > get-it-on-sk.svg # Slovak
 sed "s/GET IT ON/NA VOLJOV/"          $SRC > get-it-on-sl.svg # Slovenian
 sed "s/GET IT ON/DISPONIBLE EN/"      $SRC > get-it-on-es.svg # Spanish
-sed "s/GET IT ON/IPATE KWENYE/"       $SRC > get-it-on-es.svg # Swahili
+sed "s/GET IT ON/IPATE KWENYE/"       $SRC > get-it-on-sw.svg # Swahili
 sed "s/GET IT ON/LADDA NED PÅ/"       $SRC > get-it-on-sv.svg # Swedish
 #sed "s/GET IT ON/TODO/"               $SRC > get-it-on-th.svg # Thai
 sed "s/GET IT ON/ЗАВАНТАЖИТИ З/"      $SRC > get-it-on-ua.svg # Ukrainian
