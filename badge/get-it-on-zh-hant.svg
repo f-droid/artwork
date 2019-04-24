@@ -15,7 +15,7 @@
    id="svg8502"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="get-it-on.svg">
+   sodipodi:docname="get-it-on-jp.svg">
   <defs
      id="defs8504">
     <linearGradient
@@ -50,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="322.4318"
+     inkscape:cx="202.5772"
      inkscape:cy="148.85197"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -60,9 +60,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata8507">
@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Andrew Nayenko</dc:title>
@@ -125,27 +125,15 @@
     <text
        sodipodi:linespacing="100%"
        id="text3013"
-       y="402.36697"
+       y="489.85199"
        x="508.95129"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.39519119px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
-         y="402.36697"
+         y="489.85199"
          x="508.95129"
          id="tspan3015"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.125px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">DISPONIBLE EN</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.70882034px;line-height:100%;font-family:Rokkitt;-inkscape-font-specification:'Rokkitt Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       x="508.21259"
-       y="489.36108"
-       id="text5902"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan5904"
-         x="508.21259"
-         y="489.36108"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:95px;line-height:100%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">F-Droid</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.125px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">立即下載</tspan></text>
     <g
        id="g4400"
        transform="translate(80.999992,75.999997)">
@@ -343,5 +331,17 @@
          d="m 282.71484,299.83484 a 3.2898056,3.2898056 0 0 0 -2.66211,5.33593 l 9.47461,12.26172 C 289.19237,318.31001 289,319.25869 289,320.25671 l 0,18.21094 c 0,4.37367 3.52083,7.89453 7.89453,7.89453 l 84.21094,0 c 4.3737,0 7.89453,-3.52086 7.89453,-7.89453 l 0,-18.21094 c 0,-0.99858 -0.19005,-1.94824 -0.52539,-2.82617 l 9.47266,-12.25977 a 3.2898056,3.2898056 0 0 0 -2.4336,-5.33398 3.2898056,3.2898056 0 0 0 -2.77148,1.31055 l -9.01367,11.66601 c -0.82093,-0.28771 -1.70144,-0.45117 -2.62305,-0.45117 l -84.21094,0 c -0.92137,0 -1.80035,0.1636 -2.62109,0.45117 l -9.01563,-11.66601 a 3.2898056,3.2898056 0 0 0 -2.54297,-1.3125 z m 14.17969,49.52734 c -4.3737,0 -7.89453,3.52085 -7.89453,7.89453 l 0,52.21094 c 0,4.37368 3.52083,7.89453 7.89453,7.89453 l 84.21094,0 c 4.3737,0 7.89453,-3.52085 7.89453,-7.89453 l 0,-52.21094 c 0,-4.37368 -3.52083,-7.89453 -7.89453,-7.89453 l -84.21094,0 z"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4398);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.57895327;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.70882034px;line-height:100%;font-family:Rokkitt;-inkscape-font-specification:'Rokkitt Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       x="508.21259"
+       y="449.40311"
+       id="text5902-3"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5904-6"
+         x="508.21259"
+         y="449.40311"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:95px;line-height:100%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">F-Droid</tspan></text>
   </g>
 </svg>
