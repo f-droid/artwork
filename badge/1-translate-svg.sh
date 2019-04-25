@@ -78,8 +78,9 @@ sed 's/">GET IT ON/;word-spacing:-5px;letter-spacing:-1px">DOSTUPNO NA USLUZI/'\
                                       $SRC > get-it-on-hr.svg # Croatian
 
 ### text at top and from RTL
-SRC=src/get-it-on-iw.svg
+SRC=src/get-it-on-he.svg
 cp -a $SRC .                          # Hebrew
+cp $SRC                                      get-it-on-iw.svg # Hebrew (deprecated)
 #sed "s/כעח ב-/TODO/"       $SRC > get-it-on-ar.svg # Arabic
 
 ### text at bottom and from LTR
