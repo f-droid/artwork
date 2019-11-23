@@ -27,7 +27,7 @@ sed "s/GET IT ON/ПРЕДЛАГА СЕ В/"      $SRC > get-it-on-bg.svg # Bulga
 sed "s/GET IT ON/DISPONIBLE A/"       $SRC > get-it-on-ca.svg # Catalan
 sed "s/GET IT ON/NYNÍ NA/"            $SRC > get-it-on-cs.svg # Czech
 sed "s/GET IT ON/立即下載/"         $SRC > get-it-on-zh-hk.svg # Chinese (HK)
-sed "s/GET IT ON/下載应用，请到/"    $SRC > get-it-on-zh-cn.svg # Chinese (CN)
+sed "s/GET IT ON/下载应用，请到/"    $SRC > get-it-on-zh-cn.svg # Chinese (CN)
 cp get-it-on-zh-cn.svg                       get-it-on-zh-hans.svg # Simplified Chinese
 sed "s/GET IT ON/NU PÅ/"              $SRC > get-it-on-da.svg # Danish
 sed "s/GET IT ON/ONTDEK HET OP/"      $SRC > get-it-on-nl.svg # Dutch
