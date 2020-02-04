@@ -8,7 +8,7 @@ All designs should be editable in Inkscape.
 
 #### Production
 
-All but the hexagons stickers were produced at [flyeralarm](flyeralarm.com) in
+All but the hexagons stickers were produced at [flyeralarm](https://flyeralarm.com) in
 December 2019.
 
 The hexagon stickers were produced somewhere in the Netherlands, but next time
