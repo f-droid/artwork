@@ -1,5 +1,0 @@
-F-Droid isometric icons
-
-Copyright 2021 Onno van den Dungen
-
-Dual-licensed (pick either) under CC-BY-SA 3.0 Unported <http://creativecommons.org/licenses/by-sa/3.0/> and GPLv3 <http://www.gnu.org/licenses/gpl-3.0.html> or later versions of that license
