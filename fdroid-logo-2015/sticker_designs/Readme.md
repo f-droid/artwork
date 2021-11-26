@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2020 Marcus Hoffmann <bubu@bubu1.eu>
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 ### Stickers
 
 

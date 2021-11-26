@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+# SPDX-FileCopyrightText: 2016 Pander <pander@users.sourceforge.net>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 ###
 ### IMPORTANT, even though some character might look that they come from a
 ### QWERTY keyboard, that might not be the case. For example, for Greek and

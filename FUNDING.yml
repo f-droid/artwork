@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2019 Hans-Christoph Steiner <hans@eds.org>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+---
+liberapay: F-Droid-Data
+github:
+    - eighthave
+custom:
+    - https://f-droid.org/about/
+    - https://www.hellotux.com/f-droid
+    - https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E2FCXCT6837GL

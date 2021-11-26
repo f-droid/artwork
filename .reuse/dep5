@@ -1,0 +1,54 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: F-Droid Artwork
+Upstream-Contact: F-Droid Contributors <team@f-droid.org>
+Source: https://gitlab.com/fdroid/artwork
+
+Files: fdroid-logo-2010/beardroid.png fdroid-logo-2010/beardroid.svg
+Copyright: 2013 Daniel Martí <mvdan@mvdan.cc>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: fdroid-logo-2012/fdroidheader-thumb.png fdroid-logo-2012/fdroid-logo-blue-48pxb.svg fdroid-logo-2012/fdroid-135.png fdroid-logo-2012/icon.png fdroid-logo-2012/fdroid-logo.svg fdroid-logo-2012/fdroidheader.png fdroid-logo-2012/fdroidheader.xcf fdroid-logo-2012/fdroid-logo-green48pxg.svg
+Copyright: 2012 William Theaker
+License: CC-BY-SA-3.0 or GPL-2.0-or-later
+
+Files: fdroid-logo-2013/updates_notification.svg fdroid-logo-2013/fdroid-logo.svg fdroid-logo-2013/available-on-fdroid.svg fdroid-logo-2013/header.svg fdroid-logo-2013/install-client-button.svg fdroid-logo-2013/default_notification.svg fdroid-logo-2013/default-app.svg 
+Copyright: 2012 William Theaker
+Copyright: 2013 Robert Martinez
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: fdroid-logo-2015/updates_notification.svg fdroid-logo-2015/fdroid-logo-privileged.svg fdroid-logo-2015/fdroid-logo.svg fdroid-logo-2015/fdroid-logo.svg fdroid-logo-2015/default_notification.svg fdroid-logo-2015/default-app.svg
+Copyright: 2012 William Theaker
+Copyright: 2013 Robert Martinez
+Copyright: 2015 Andrew Nayenko <relan@airpost.net>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: fdroid-logo-2015/available-on-fdroid.svg
+Copyright: 2013 Robert Martinez
+Copyright: 2015 Andrew Nayenko <relan@airpost.net>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: fdroid-logo-2015/sticker_designs/fdroid_round.pdf fdroid-logo-2015/sticker_designs/get-it-on-fdroid.pdf
+Copyright: 2020 Marcus Hoffmann <bubu@bubu1.eu>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: fdroid-logo-2015/sticker_designs/sticker-hexagon.svg
+Copyright: 2020 Pander <pander@users.sourceforge.net>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: fdroid-logo-2015/default-app.svg
+Copyright: 2012 William Theaker
+Copyright: 2013 Robert Martinez
+Copyright: 2015 Andrew Nayenko <relan@airpost.net>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: badge/src/get-it-on.svg badge/src/get-it-on-*.svg badge/get-it-on-*.svg badge/get-it-on.png badge/get-it-on-*.png
+Copyright: 2016 Andrew Nayenko <relan@airpost.net>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: badge/get-it-on.svg
+Copyright: 2016 Andrew Nayenko <relan@airpost.net>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: forum/discourse.svg
+Copyright: 2017 Andrew Nayenko <relan@airpost.net>
+License: CC-BY-SA-3.0 or GPL-3.0-or-later

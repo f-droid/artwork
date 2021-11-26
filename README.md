@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2016 Daniel Martí <mvdan@mvdan.cc>
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 # Artwork
 
 This repository holds images and designs for the F-Droid project.
