@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2016 Andrew Nayenko <relan@airpost.net>
+
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 # Badge
 
 Use the F-Droid badge on your site or README.md to indicate that your app is
