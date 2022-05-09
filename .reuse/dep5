@@ -52,3 +52,7 @@ License: CC-BY-SA-3.0 or GPL-3.0-or-later
 Files: forum/discourse.svg
 Copyright: 2017 Andrew Nayenko <relan@airpost.net>
 License: CC-BY-SA-3.0 or GPL-3.0-or-later
+
+Files: isometric-fdroid/*
+Copyright: 2021 Onno van den Dungen <info@onnno.nl>
+License: CC-BY-SA-3.0
