@@ -55,6 +55,7 @@ sed "s/GET IT ON/GAUTI IŠ/"           $SRC > get-it-on-lt.svg # Lithuanian
 sed "s/GET IT ON/ДОСТАРНО НА/"        $SRC > get-it-on-mk.svg # Macedonian
 sed "s/GET IT ON/DAPATKAN DI/"        $SRC > get-it-on-ms.svg # Malay
 sed "s/GET IT ON/TILGJENGELIG PÅ/"    $SRC > get-it-on-no.svg # Norwegian
+sed "s/GET IT ON/TILGJENGELEG PÅ/"    $SRC > get-it-on-nn.svg # Norwegian Nynorsk
 sed "s/GET IT ON/POBIERZ Z/"          $SRC > get-it-on-pl.svg # Polish
 sed "s/GET IT ON/DISPONÍVEL NO/"      $SRC > get-it-on-pt.svg # Portuguese
 sed "s/GET IT ON/DISPONÍVEL NO/"      $SRC > get-it-on-pt-br.svg # Portuguese (BR)
