@@ -104,7 +104,7 @@ sed "s/ORQALI OLING/-ЭЭС АВАХ/"       $SRC > get-it-on-mn.svg # Mongolian
 sed "s/ORQALI OLING/मा प्राप्त गर्नुहोस्/"       $SRC > get-it-on-ne.svg # Nepali
 sed "s/ORQALI OLING/இல் பெறுக/"       $SRC > get-it-on-ta.svg # Tamil
 sed "s/ORQALI OLING/లో దీన్ని పొందండి/"      $SRC > get-it-on-te.svg # Telugu
-sed "s/ORQALI OLING/'DEN ALIN/"       $SRC > get-it-on-tr.svg # Tukish
+sed "s/ORQALI OLING/'DEN ALIN/"       $SRC > get-it-on-tr.svg # Turkish
 
 ### text at top and at bottom and from LTR
 SRC=src/get-it-on-eu.svg
