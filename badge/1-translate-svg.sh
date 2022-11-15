@@ -32,14 +32,19 @@ sed "s/GET IT ON/NYNÍ NA/"            $SRC > get-it-on-cs.svg # Czech
 sed "s/GET IT ON/立即下載/"         $SRC > get-it-on-zh-hk.svg # Chinese (HK)
 sed "s/GET IT ON/下载应用，请到/"    $SRC > get-it-on-zh-cn.svg # Chinese (CN)
 cp get-it-on-zh-cn.svg                       get-it-on-zh-hans.svg # Simplified Chinese
+sed "s/GET IT ON/EI GAEL AR/"         $SRC > get-it-on-cy.svg # Welsh
 sed "s/GET IT ON/NU PÅ/"              $SRC > get-it-on-da.svg # Danish
 sed "s/GET IT ON/ONTDEK HET OP/"      $SRC > get-it-on-nl.svg # Dutch
+sed "s/GET IT ON/AKIRU ĜIN EN/"       $SRC > get-it-on-eo.svg # Esperanto
 sed "s/GET IT ON/HANKIGE/"            $SRC > get-it-on-et.svg # Estonian
 sed "s/GET IT ON/KUNIN ITO SA/"      $SRC > get-it-on-fil.svg # Filipino
 sed "s/GET IT ON/SAADA SE/"           $SRC > get-it-on-fi.svg # Finnish
 sed "s/GET IT ON/DISPONIBLE SUR/"     $SRC > get-it-on-fr.svg # French
 sed "s/GET IT ON/DISPONIBLE SUR/"     $SRC > get-it-on-fr-ca.svg # French (CA)
 sed "s/GET IT ON/DISPONIBLE SUR/"     $SRC > get-it-on-fr-fr.svg # French (FR)
+sed "s/GET IT ON/FYN ÚT OP/"          $SRC > get-it-on-fy.svg # Western Frysian
+sed "s/GET IT ON/FAIGH É AR/"         $SRC > get-it-on-ga.svg # Irish
+sed "s/GET IT ON/FAIGH E AIR/"        $SRC > get-it-on-gd.svg # Scottish Gaelic
 sed "s/GET IT ON/DISPOÑIBLE EN/"      $SRC > get-it-on-gl.svg # Galician
 sed "s/GET IT ON/JETZT BEI/"          $SRC > get-it-on-de.svg # German
 sed "s/GET IT ON/ΑΠΟΚΤΗΣΤΕ ΤΟ ΣΤΟ/"   $SRC > get-it-on-el.svg # Greek
@@ -49,6 +54,7 @@ sed "s/GET IT ON/TEMUKAN DI/"         $SRC > get-it-on-id.svg # Indonesian
 sed "s/GET IT ON/DISPONIBILE SU/"     $SRC > get-it-on-it.svg # Italian
 sed "s/GET IT ON/ទាញយកវានៅលើ/"        $SRC > get-it-on-km.svg # Khmer
 sed "s/GET IT ON/다운로드하기/"          $SRC > get-it-on-ko.svg # Korean
+sed "s/GET IT ON/KRÉIEN ET OP/"       $SRC > get-it-on-lb.svg # Luxembourgish
 sed "s/GET IT ON/ດາວໂຫລດໄດ້ຈາກ/"        $SRC > get-it-on-lo.svg # Lao
 sed "s/GET IT ON/IELĀDĒT NO/"         $SRC > get-it-on-lv.svg # Latvian
 sed "s/GET IT ON/GAUTI IŠ/"           $SRC > get-it-on-lt.svg # Lithuanian
