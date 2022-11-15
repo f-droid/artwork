@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-'''Print missing langiuages.'''
+'''Print missing languages.'''
+
+# SPDX-FileCopyrightText: 2022 Pander <pander@users.sourceforge.net>
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 from json import load
 from os.path import exists
