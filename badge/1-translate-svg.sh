@@ -46,7 +46,7 @@ sed "s/GET IT ON/ΑΠΟΚΤΗΣΤΕ ΤΟ ΣΤΟ/"   $SRC > get-it-on-el.svg # Gr
 sed "s/GET IT ON/SZEREZD MEG:/"       $SRC > get-it-on-hu.svg # Hungarian
 sed "s/GET IT ON/SÆKJA FRÁ/"          $SRC > get-it-on-is.svg # Icelandic
 sed "s/GET IT ON/TEMUKAN DI/"         $SRC > get-it-on-id.svg # Indonesian
-sed "s/GET IT ON/DISPONIBLE SU/"      $SRC > get-it-on-it.svg # Italian
+sed "s/GET IT ON/DISPONIBILE SU/"     $SRC > get-it-on-it.svg # Italian
 sed "s/GET IT ON/ទាញយកវានៅលើ/"        $SRC > get-it-on-km.svg # Khmer
 sed "s/GET IT ON/다운로드하기/"          $SRC > get-it-on-ko.svg # Korean
 sed "s/GET IT ON/ດາວໂຫລດໄດ້ຈາກ/"        $SRC > get-it-on-lo.svg # Lao
